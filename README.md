@@ -61,7 +61,9 @@ Now once the crop is planted, the app can further help by:-
 </li>
 
 ## Technical Approach
-<ul><li>1.Farmer → Mobile App (Entry Point)
+<ul><li>
+ <img width="1024" height="1024" alt="Gemini_Generated_Image_j5ggjbj5ggjbj5gg" src="https://github.com/user-attachments/assets/819216ae-0cb9-4791-ac79-a04235e8a7bc" />
+ 1.Farmer → Mobile App (Entry Point)
 The farmer uses a mobile app/chatbot that supports voice, text, and image input in the local language.
 This makes the app accessible even for low-literate farmers.
 
@@ -142,9 +144,7 @@ Encourages entrepreneurship in agri-tech - creating new rural job markets. Overa
 ## Research and References
 <ul><li>1)Council on Energy, Environment and Water (CEEW). (2022). Crop rotation and intercropping in India: Sustainable agricultural practices. Retrieved from https://www.ceew.in/publications/sustainable-agriculture-india/crop-rotation-intercropping
 2)Aker, J. C., et al. (2025). Meta-analysis of the impacts of digital information interventions on agriculture. Information Processing in Agriculture, Elsevier. Retrieved from https://www.sciencedirect.com/science/article/pii/S2211912425000410
-3)McKinsey & Company. (2023). How agtech is poised to transform India into a<img width="1024" height="1024" alt="Gemini_Generated_Image_j5ggjbj5ggjbj5gg" src="https://github.com/user-attachments/assets/819216ae-0cb9-4791-ac79-a04235e8a7bc" />
-<img width="1024" height="1024" alt="Gemini_Generated_Image_j5ggjbj5ggjbj5gg" src="https://github.com/user-attachments/assets/891c9f2e-406d-4fb8-a1af-0f4d41ebc0a2" />
- farming powerhouse. Retrieved from https://www.mckinsey.com/industries/agriculture/our-insights/how-agtech-is-poised-to-transform-india-into-a-farming-powerhouse
+3)McKinsey & Company. (2023). How agtech is poised to transform India into a farming powerhouse. Retrieved from https://www.mckinsey.com/industries/agriculture/our-insights/how-agtech-is-poised-to-transform-india-into-a-farming-powerhouse
 4)India Employer Forum. (2023). Agritech in India: Emerging careers and future opportunities. Retrieved from https://indiaemployerforum.org/world-of-work/agritech-in-india-emerging-careers
 5)Das, S., et al. (2021). Harnessing digital technology to improve agricultural productivity? PMC (PubMed Central). Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC8238233/
 6)World Bank. (2023). Digital Agriculture Profiles: India. Retrieved from https://www.worldbank.org/en/topic/ict/publication/digital-agriculture-profiles-india
